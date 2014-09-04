@@ -1,0 +1,192 @@
+stem: no, df: 1, (id: 3, tf: 1), total freqency: 1
+stem: treatment, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: slab, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: distribut, df: 2, (id: 1, tf: 1), (id: 4, tf: 1), total freqency: 2
+stem: flow, df: 4, (id: 1, tf: 1), (id: 2, tf: 6), (id: 3, tf: 2), (id: 4, tf: 3), total freqency: 12
+stem: ny, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: time, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: free, df: 2, (id: 1, tf: 1), (id: 2, tf: 3), total freqency: 4
+stem: fluid, df: 2, (id: 2, tf: 2), (id: 4, tf: 1), total freqency: 3
+stem: on, df: 1, (id: 5, tf: 2), total freqency: 2
+stem: incompress, df: 3, (id: 2, tf: 2), (id: 3, tf: 1), (id: 4, tf: 2), total freqency: 5
+stem: curv, df: 2, (id: 1, tf: 1), (id: 2, tf: 1), total freqency: 2
+stem: increment, df: 1, (id: 1, tf: 2), total freqency: 2
+stem: wing, df: 1, (id: 1, tf: 3), total freqency: 3
+stem: support, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: evid, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: veloc, df: 2, (id: 1, tf: 1), (id: 4, tf: 1), total freqency: 2
+stem: inviscid, df: 1, (id: 2, tf: 3), total freqency: 3
+stem: plate, df: 3, (id: 2, tf: 3), (id: 3, tf: 1), (id: 4, tf: 2), total freqency: 6
+stem: troi, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: again, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: shown, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: onli, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: laminar, df: 1, (id: 4, tf: 1), total freqency: 1
+stem: steadi, df: 3, (id: 2, tf: 1), (id: 3, tf: 1), (id: 4, tf: 1), total freqency: 3
+stem: instanc, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: ha, df: 2, (id: 2, tf: 1), (id: 4, tf: 1), total freqency: 2
+stem: present, df: 3, (id: 2, tf: 1), (id: 3, tf: 1), (id: 5, tf: 1), total freqency: 3
+stem: surfac, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: obtain, df: 1, (id: 4, tf: 1), total freqency: 1
+stem: configur, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: ting, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: ratio, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: discuss, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: load, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: small, df: 2, (id: 2, tf: 2), (id: 5, tf: 1), total freqency: 3
+stem: novel, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: solut, df: 2, (id: 4, tf: 2), (id: 5, tf: 1), total freqency: 3
+stem: region, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: increas, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: stream, df: 2, (id: 1, tf: 1), (id: 2, tf: 3), total freqency: 4
+stem: depart, df: 2, (id: 2, tf: 1), (id: 3, tf: 1), total freqency: 2
+stem: subject, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: engin, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: made, df: 2, (id: 1, tf: 2), (id: 4, tf: 1), total freqency: 3
+stem: wasserman, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: consid, df: 2, (id: 2, tf: 1), (id: 4, tf: 1), total freqency: 2
+stem: triangular, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: mai, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: karman, df: 1, (id: 4, tf: 1), total freqency: 1
+stem: vortic, df: 2, (id: 2, tf: 2), (id: 4, tf: 1), total freqency: 3
+stem: renssela, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: institut, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: theoret, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: aris, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: usual, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: linear, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: pressur, df: 1, (id: 3, tf: 1), total freqency: 1
+stem: b, df: 2, (id: 3, tf: 1), (id: 5, tf: 1), total freqency: 2
+stem: libbi, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: destal, df: 1, (id: 1, tf: 3), total freqency: 3
+stem: m, df: 2, (id: 1, tf: 1), (id: 3, tf: 1), total freqency: 2
+stem: j, df: 3, (id: 1, tf: 1), (id: 4, tf: 1), (id: 5, tf: 1), total freqency: 3
+stem: potenti, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: techniqu, df: 1, (id: 4, tf: 1), total freqency: 1
+stem: differ, df: 2, (id: 1, tf: 3), (id: 2, tf: 1), total freqency: 4
+stem: slipstream, df: 1, (id: 1, tf: 5), total freqency: 5
+stem: remain, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: yen, df: 1, (id: 4, tf: 1), total freqency: 1
+stem: experi, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: intern, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: exampl, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: aeronaut, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: attack, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: part, df: 1, (id: 1, tf: 2), total freqency: 2
+stem: basi, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: nose, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: gradient, df: 1, (id: 3, tf: 1), total freqency: 1
+stem: propel, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: to, df: 4, (id: 1, tf: 5), (id: 2, tf: 2), (id: 4, tf: 1), (id: 5, tf: 2), total freqency: 10
+stem: yili, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: dure, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: integr, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: simpl, df: 2, (id: 2, tf: 2), (id: 3, tf: 1), total freqency: 3
+stem: consequ, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: substanti, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: possibl, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: lead, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: show, df: 2, (id: 1, tf: 1), (id: 4, tf: 1), total freqency: 2
+stem: approxim, df: 2, (id: 2, tf: 1), (id: 4, tf: 1), total freqency: 2
+stem: type, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: glauert, df: 1, (id: 3, tf: 1), total freqency: 1
+stem: heat, df: 1, (id: 5, tf: 2), total freqency: 2
+stem: necessari, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: skin, df: 1, (id: 4, tf: 1), total freqency: 1
+stem: must, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: situat, df: 1, (id: 2, tf: 2), total freqency: 2
+stem: spanwis, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: after, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: conduct, df: 1, (id: 5, tf: 2), total freqency: 2
+stem: were, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: univers, df: 1, (id: 3, tf: 1), total freqency: 1
+stem: experiment, df: 1, (id: 1, tf: 2), total freqency: 2
+stem: be, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: doubl, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: control, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: such, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: composit, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: kt, df: 1, (id: 4, tf: 1), total freqency: 1
+stem: irrot, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: transient, df: 1, (id: 5, tf: 2), total freqency: 2
+stem: flat, df: 3, (id: 2, tf: 3), (id: 3, tf: 1), (id: 4, tf: 1), total freqency: 5
+stem: rotat, df: 1, (id: 2, tf: 2), total freqency: 2
+stem: friction, df: 1, (id: 4, tf: 1), total freqency: 1
+stem: sc, df: 3, (id: 1, tf: 1), (id: 4, tf: 1), (id: 5, tf: 1), total freqency: 3
+stem: togeth, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: comparison, df: 1, (id: 4, tf: 1), total freqency: 1
+stem: brenckman, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: restrict, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: viscou, df: 1, (id: 2, tf: 2), total freqency: 2
+stem: input, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: bodi, df: 1, (id: 2, tf: 2), total freqency: 2
+stem: thick, df: 1, (id: 4, tf: 1), total freqency: 1
+stem: outsid, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: determin, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: wave, df: 1, (id: 2, tf: 2), total freqency: 2
+stem: lift, df: 1, (id: 1, tf: 4), total freqency: 4
+stem: due, df: 1, (id: 1, tf: 2), total freqency: 2
+stem: angl, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: compar, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: boundari, df: 4, (id: 1, tf: 1), (id: 2, tf: 5), (id: 3, tf: 2), (id: 4, tf: 4), total freqency: 12
+stem: viscos, df: 1, (id: 2, tf: 2), total freqency: 2
+stem: treat, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: span, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: result, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: empir, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: edg, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: can, df: 1, (id: 2, tf: 2), total freqency: 2
+stem: polytechn, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: paper, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: from, df: 1, (id: 2, tf: 2), total freqency: 2
+stem: well, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: recent, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: boundarylay, df: 1, (id: 4, tf: 1), total freqency: 1
+stem: while, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: england, df: 1, (id: 3, tf: 1), total freqency: 1
+stem: rate, df: 1, (id: 5, tf: 2), total freqency: 2
+stem: order, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: prandtl, df: 1, (id: 2, tf: 2), total freqency: 2
+stem: manchest, df: 1, (id: 3, tf: 2), total freqency: 2
+stem: expos, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: pohlhausen, df: 1, (id: 4, tf: 1), total freqency: 1
+stem: exist, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: classic, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: between, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: analyt, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: emit, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: equat, df: 2, (id: 3, tf: 1), (id: 4, tf: 1), total freqency: 2
+stem: constant, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: uniform, df: 1, (id: 4, tf: 1), total freqency: 1
+stem: speed, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: ferri, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: mathemat, df: 1, (id: 3, tf: 1), total freqency: 1
+stem: aerodynam, df: 2, (id: 1, tf: 1), (id: 5, tf: 1), total freqency: 2
+stem: into, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: origin, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: layer, df: 5, (id: 1, tf: 1), (id: 2, tf: 5), (id: 3, tf: 2), (id: 4, tf: 4), (id: 5, tf: 1), total freqency: 13
+stem: at, df: 2, (id: 1, tf: 2), (id: 5, tf: 1), total freqency: 3
+stem: problem, df: 3, (id: 1, tf: 1), (id: 2, tf: 4), (id: 4, tf: 1), total freqency: 6
+stem: produc, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: evalu, df: 1, (id: 1, tf: 2), total freqency: 2
+stem: past, df: 2, (id: 2, tf: 4), (id: 3, tf: 1), total freqency: 5
+stem: shock, df: 1, (id: 2, tf: 2), total freqency: 2
+stem: hyperson, df: 1, (id: 2, tf: 2), total freqency: 2
+stem: two, df: 2, (id: 2, tf: 2), (id: 4, tf: 1), total freqency: 3
+stem: subtract, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: dimension, df: 3, (id: 2, tf: 2), (id: 4, tf: 1), (id: 5, tf: 1), total freqency: 4
+stem: specif, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: effect, df: 3, (id: 1, tf: 1), (id: 2, tf: 1), (id: 4, tf: 1), total freqency: 3
+stem: agre, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: featur, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: shear, df: 3, (id: 2, tf: 2), (id: 3, tf: 1), (id: 4, tf: 2), total freqency: 5
+stem: investig, df: 2, (id: 1, tf: 1), (id: 2, tf: 1), total freqency: 2
+stem: theori, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: high, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: somewhat, df: 1, (id: 2, tf: 1), total freqency: 1
+stem: intend, df: 1, (id: 1, tf: 1), total freqency: 1
+stem: also, df: 1, (id: 4, tf: 1), total freqency: 1
+stem: studi, df: 2, (id: 1, tf: 1), (id: 2, tf: 2), total freqency: 3
+stem: ae, df: 3, (id: 1, tf: 1), (id: 4, tf: 1), (id: 5, tf: 1), total freqency: 3
+stem: occur, df: 1, (id: 5, tf: 1), total freqency: 1
+stem: found, df: 1, (id: 1, tf: 1), total freqency: 1
